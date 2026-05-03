@@ -43,7 +43,7 @@ The admin has additional privileges, including the ability to delete discussions
 
 ## 🔗 Related Repositories
 
-- Frontend (Angular): [https://github.com/your-username/BookHubX-Frontend](https://github.com/utkarash-thakur/BooksHub)
+- Frontend (Angular): [https://github.com/utkarash-thakur/BooksHub](https://github.com/utkarash-thakur/BooksHub)
 
 👉 To run the full application, you need to start both frontend and backend.
 
