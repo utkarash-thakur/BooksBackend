@@ -41,6 +41,12 @@ BookHubX uses JSON Web Tokens (JWT) for secure authentication. Each request to t
 
 The admin has additional privileges, including the ability to delete discussions, users, or authors.
 
+## 🔗 Related Repositories
+
+- Frontend (Angular): [https://github.com/your-username/BookHubX-Frontend](https://github.com/utkarash-thakur/BooksHub)
+
+👉 To run the full application, you need to start both frontend and backend.
+
 ## Known Issues and Limitations:
 
 - The application is still under development, so there might be some minor bugs or features not yet implemented.
@@ -49,4 +55,4 @@ The admin has additional privileges, including the ability to delete discussions
 
 ## Contact:
 
-If you have any questions or encounter issues with the backend, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/utkarash-thakur-70439a262/).
+If you have any questions or encounter issues with the backend, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/utkarash-thakur/).
